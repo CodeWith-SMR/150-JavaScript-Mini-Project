@@ -21,6 +21,7 @@ Beginner-friendly: Includes easy-to-follow logic and clean code.
 
 ## 🔗 Live Demo
 Check out the live demos of all projects: Live Preview
+<br/>
 Animated Notification Button Project ( 1 ): https://codewith-smr.github.io/150-JavaScript-Mini-Project/
 
 
