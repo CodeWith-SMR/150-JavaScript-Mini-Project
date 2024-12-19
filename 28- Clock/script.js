@@ -1,4 +1,4 @@
-const HOURHAND = document.querySelector("#hour");
+const HOURHAND = document.querySelector("#hour"); 
 const MINUTEHAND = document.querySelector("#minute");
 const SECONDHAND = document.querySelector("#second");
 const DIGITALCLOCK = document.querySelector('.digitalClock h1');
